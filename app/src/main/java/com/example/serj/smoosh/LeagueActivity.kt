@@ -3,7 +3,10 @@ package com.example.serj.smoosh
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-class LeagueActivity : AppCompatActivity() {
+
+//we inheriten the class BaseActivity()
+
+class LeagueActivity : BaseActivity(){
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
