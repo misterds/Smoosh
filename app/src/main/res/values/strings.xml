@@ -1,4 +1,26 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">SMOOSH</string>
     <string name="go_all_in">GO ALL IN</string>
+    <string name="i_am_a">I am a</string>
+    <string name="beginer">Beginer</string>
+    <string name="baller1" tools:ignore="DuplicateDefinition">BALLER</string>
+    <string name="baller2">BALLER</string>
+    <string name="baller3">BALLER</string>
+    <string name="finish">Finish</string>
+    <string name="backgroundimage">background_image</string>
+    <string name="fin_a_team_in_your_cite_and_domanate_the_leag">Fin a team in your cite and domanate the leag</string>
+    <string name="on_going_all_out">ON GOING ALL OUT</string>
+    <string name="logo">logo</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="desire_league">Desire League</string>
+    <string name="mens" tools:ignore="DuplicateDefinition">Mens</string>
+    <string name="mens1">Mens</string>
+    <string name="mens2">Mens</string>
+    <string name="womens">Womens</string>
+    <string name="womens1">Womens</string>
+    <string name="womens2">Womens</string>
+    <string name="co_ed">CO-ED</string>
+    <string name="co_ed1">CO-ED</string>
+    <string name="co_ed2">CO-ED</string>
+    <string name="next">Next</string>
 </resources>
