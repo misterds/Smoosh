@@ -1,4 +1,4 @@
-package com.example.serj.smoosh
+package com.example.serj.smoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle

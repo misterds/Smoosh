@@ -1,8 +1,8 @@
-package com.example.serj.smoosh
+package com.example.serj.smoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.example.serj.smoosh.R
 import kotlinx.android.synthetic.main.activity_welcom.*
 
 class WelcomActivity : BaseActivity() {
@@ -15,7 +15,7 @@ class WelcomActivity : BaseActivity() {
 
         getStartedButton.setOnClickListener {
 //            creating   explisite Intent
-            val leagueIntent = Intent(this,LeagueActivity::class.java)
+            val leagueIntent = Intent(this, LeagueActivity::class.java)
 //            start  explisite Intent   with startActivity method
             startActivity(leagueIntent)
         }
